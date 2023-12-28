@@ -1,5 +1,5 @@
 # 📍 Hi there, I'm BrookLiNN 
-**Computer Science student, always in search of new knowledge.**
+**Computer Science student entering the 5th semester, always looking for new knowledge.**
 <br />
 ## 🔎 My characteristics
 • 🐍 I'm a **Python Developer** from SP - Brazil.<br />
