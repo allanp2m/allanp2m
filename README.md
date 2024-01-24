@@ -6,6 +6,7 @@
 • 💻 Currently my studies and projects are based on **Python and Django**, but I am open to new learning.<br />
 • 📩 Contacts <br />
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-medeiros-495188233/)
+![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)(allanpauluk@hotmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/allanp2m/)
 ![Discord](https://img.shields.io/badge/brooklinn-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 <br />
