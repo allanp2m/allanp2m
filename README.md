@@ -19,4 +19,4 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)<br />
-![Notion](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)<br />
+![Notion](https://github-readme-stats.vercel.app/api/top-langs/?username={allanp2m}&theme=blue-green)<br />
