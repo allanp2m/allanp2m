@@ -1,5 +1,5 @@
 # 📍 Hi there, I'm Allan 
-**Computer Science student studying the 6th semester, always looking for new knowledge.**
+**I'm a software developer who works with Python and Django. I am always open to new knowledge. I currently work as a data engineering analyst, also applying my knowledge in software development.**
 <br />
 ## 🔎 My characteristics
 • 🐍 I'm a **Software Developer** from SP - Brazil.<br />
