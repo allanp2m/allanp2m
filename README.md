@@ -1,5 +1,5 @@
 # 📍 Hi there, I'm Allan 
-**I'm a software developer who works with Python and Django. I am always open to new knowledge. I currently work as a software engineer.**
+**I'm a software developer who works with Python and Django. I am always open to new knowledge. I currently work as a Data Engineer.**
 <br />
 ## 🔎 My characteristics
 • 🐍 I'm a **Software Developer** from SP - Brazil.<br />
