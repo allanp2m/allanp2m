@@ -1,5 +1,5 @@
 # 📍 Hi there, I'm Allan 
-**I'm a software developer who works with Python and Django. I am always open to new knowledge. I currently work as a Data Engineer.**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&multiline=true&width=435&lines=I'm+a+software+developer+who+works+with+Python+and+Django.;I+currently+work+as+a+Data+Engineer.)](https://git.io/typing-svg)
 <br />
 ## 🔎 My characteristics
 • 🐍 I'm a **Software Developer** from SP - Brazil.<br />
