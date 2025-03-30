@@ -1,5 +1,5 @@
 # 📍 Hi there, I'm Allan 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=14&duration=3000&pause=1000&color=F70ED3&multiline=true&width=435&lines=Software+developer+who+works+with+Python+and+Django.;I+currently+work+as+a+Data+Engineer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=200&color=00E1F7&multiline=true&width=600&height=100&lines=%24+nc+-lvnp+4242;listening+on+%5Bany%5D+4242+...;connect+to+%5BBrookLiNN%5D+session;bash+-i+%3E%26+%2Fdev%2Ftcp%2F127.0.0.1%2F4242+0%3E%261;BrookLiNN%40AIcore%3A~%24+source+activate+neural_env;(neural_env)+BrookLiNN%40AIcore%3A~%24+python+manage.py+runserver;Starting+development+server+at+http%3A%2F%2F127.0.0.1%3A8000%2F;Quit+the+server+with+CONTROL-C.)](https://git.io/typing-svg)
 <br />
 ## 🔎 My characteristics
 • 🐍 I'm a **Software Developer** from SP - Brazil.<br />
