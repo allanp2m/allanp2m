@@ -1,8 +1,7 @@
 # 📍 Hi there, I'm Allan 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=200&color=00E1F7&multiline=true&width=600&height=100&lines=BrookLiNN%40AIcore%3A~%24+source+activate+neural_env;(neural_env)+BrookLiNN%40AIcore%3A~%24+python+manage.py+runserver;Starting+development+server+at+http%3A%2F%2F127.0.0.1%3A8000%2F;Quit+the+server+with+CONTROL-C.)](https://git.io/typing-svg)
 <br />
-<pre>
-```python const data = {
+```const data = {
     pronouns: "She" | "Her",
     codename: "BrookLiNN",
     status: "operational",
@@ -28,7 +27,7 @@
         portfolio: "https://brooklinn.dev",
     },
 };
-```</pre>
+```
 ## 🔎 My characteristics
 • 🐍 I'm a **Software Developer** from SP - Brazil.<br />
 • 💻 Currently my studies and projects are based on **Python and Django**, but I am open to new learning.<br />
