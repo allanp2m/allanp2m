@@ -27,7 +27,7 @@ class AboutMe:
 ```
 ## 🔎 My characteristics
 • 🐍 I'm a **Software Developer** from SP - Brazil.<br />
-• 🧠 I currently work as a **Data Engineer** focusing on AI..<br />
+• 🧠 I currently work as a **Data Engineer** focusing on AI.<br />
 • 💻 Currently my studies and projects are based on **Python and Django**, but I am open to new learning.<br />
 • 📩 Contacts <br />
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-medeiros)
