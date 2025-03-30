@@ -1,31 +1,27 @@
 # 📍 Hi there, I'm Allan 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=200&color=00E1F7&multiline=true&width=600&height=100&lines=BrookLiNN%40AIcore%3A~%24+source+activate+neural_env;(neural_env)+BrookLiNN%40AIcore%3A~%24+python+manage.py+runserver;Starting+development+server+at+http%3A%2F%2F127.0.0.1%3A8000%2F;Quit+the+server+with+CONTROL-C.)](https://git.io/typing-svg)
 <br />
-```const data = {
-    pronouns: "She" | "Her",
-    codename: "BrookLiNN",
-    status: "operational",
-    doing: "Automating minds & weaving neural networks through Django portals...",
-    code: ["{Python}", "{Django}", "{FastAPI}", "{JavaScript}", "{Bash}"],
-    askMeAbout: ["AI dev", "web dev", "model deployment", "clean code"],
-    aiDev: {
-        frameworks: ["TensorFlow", "PyTorch", "scikit-learn", "Transformers"],
-        tools: ["Jupyter", "Pandas", "NumPy", "LangChain", "HuggingFace"],
+```
+const data = {
+  pronouns: "He" | "Him",
+  codename: "AllanP2M",
+  status: "alive",
+  doing: "Developing AI-driven Solutions and Crafting Scalable Data Pipelines...",
+  code: ["{Python}", "{Java}", "{JavaScript}", "{Django}", "{Flask}", "{SQL}"],
+  askMeAbout: ["software development", "data engineering", "machine learning", "AI"],
+  webdev: {
+    frontEnd: {
+      technologies: ["HTML", "CSS", "JavaScript"],
     },
-    webdev: {
-        backEnd: {
-            technologies: ["Django", "FastAPI", "PostgreSQL", "Docker"],
-        },
-        frontEnd: {
-            technologies: ["HTML", "CSS", "JavaScript", "Alpine.js"],
-        }
-    },
-    contact: {
-        github: "https://github.com/BrookLiNN",
-        linkedin: "https://linkedin.com/in/BrookLiNN",
-        email: "brooklinn@proton.me",
-        portfolio: "https://brooklinn.dev",
-    },
+    backEnd: {
+      technologies: ["Python", "Java", "Django", "Flask", "APIs RESTful"],
+    }
+  },
+  dataEngineer: {
+    tools: ["ETL", "Microsoft Azure", "PostgreSQL", "MongoDB", "MySQL"],
+    skills: ["Database Modeling", "API Integrations", "Machine Learning", "Automation"],
+    frameworks: ["LangChain", "Azure AI", "Flask", "Django"]
+  },
 };
 ```
 ## 🔎 My characteristics
