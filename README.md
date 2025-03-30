@@ -4,7 +4,7 @@
 ```python
 def data = {
   codename: "BrookLiNN",
-  status: "alive",
+  status: "coding...",
   doing: "Developing AI-driven Solutions, Crafting Scalable Data Pipelines and Software Engineering...",
   code: ["{Python}", "{Java}", "{JavaScript}", "{Django}", "{Flask}", "{SQL}"],
   askMeAbout: ["software development", "data engineer", "software engineer", "machine learning", "AI Solutions"],
