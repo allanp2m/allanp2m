@@ -3,12 +3,11 @@
 <br />
 ```python
 def data = {
-  pronouns: "He" | "Him",
-  codename: "AllanP2M",
+  codename: "BrookLiNN",
   status: "alive",
   doing: "Developing AI-driven Solutions and Crafting Scalable Data Pipelines...",
   code: ["{Python}", "{Java}", "{JavaScript}", "{Django}", "{Flask}", "{SQL}"],
-  askMeAbout: ["software development", "data engineering", "machine learning", "AI"],
+  askMeAbout: ["software development", "data engineer", "software engineer", "machine learning", "AI Solutions"],
   webdev: {
     frontEnd: {
       technologies: ["HTML", "CSS", "JavaScript"],
