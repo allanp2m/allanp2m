@@ -5,7 +5,7 @@
 def data = {
   codename: "BrookLiNN",
   status: "alive",
-  doing: "Developing AI-driven Solutions and Crafting Scalable Data Pipelines...",
+  doing: "Developing AI-driven Solutions, Crafting Scalable Data Pipelines and Software Engineering...",
   code: ["{Python}", "{Java}", "{JavaScript}", "{Django}", "{Flask}", "{SQL}"],
   askMeAbout: ["software development", "data engineer", "software engineer", "machine learning", "AI Solutions"],
   webdev: {
