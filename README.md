@@ -2,26 +2,28 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=200&color=00E1F7&multiline=true&width=600&height=100&lines=BrookLiNN%40AIcore%3A~%24+source+activate+neural_env;(neural_env)+BrookLiNN%40AIcore%3A~%24+python+manage.py+runserver;Starting+development+server+at+http%3A%2F%2F127.0.0.1%3A8000%2F;Quit+the+server+with+CONTROL-C.)](https://git.io/typing-svg)
 <br />
 ```python
-def data = {
-  codename: "BrookLiNN",
-  status: "coding...",
-  doing: "Developing AI-driven Solutions, Crafting Scalable Data Pipelines and Software Engineering...",
-  code: ["{Python}", "{Java}", "{JavaScript}", "{Django}", "{Flask}", "{SQL}", "{LangChain}"],
-  askMeAbout: ["software development", "data engineer", "software engineer", "machine learning", "AI Solutions"],
-  webdev: {
-    frontEnd: {
-      technologies: ["HTML", "CSS", "JavaScript"],
-    },
-    backEnd: {
-      technologies: ["Python", "Java", "Django", "Flask", "APIs RESTful"],
-    }
-  },
-  dataEngineer: {
-    tools: ["ETL", "Microsoft Azure", "PostgreSQL", "MongoDB", "MySQL"],
-    skills: ["Database Modeling", "API Integrations", "Machine Learning", "Automation"],
-    frameworks: ["LangChain", "Azure AI", "Flask", "Django"]
-  },
-};
+class AboutMe:
+    def __init__(self):
+        self.data = {
+            "codename": "BrookLiNN",
+            "status": "coding...",
+            "doing": "Developing AI-driven Solutions, Crafting Scalable Data Pipelines and Software Engineering...",
+            "code": ["Python", "Java", "JavaScript", "Django", "Flask", "SQL", "LangChain"],
+            "askMeAbout": ["software development", "data engineer", "software engineer", "machine learning", "AI Solutions"],
+            "webdev": {
+                "frontEnd": {
+                    "technologies": ["HTML", "CSS", "JavaScript"],
+                },
+                "backEnd": {
+                    "technologies": ["Python", "Java", "Django", "Flask", "APIs RESTful"],
+                }
+            },
+            "dataEngineer": {
+                "tools": ["ETL", "Microsoft Azure", "PostgreSQL", "MongoDB", "MySQL"],
+                "skills": ["Database Modeling", "API Integrations", "Machine Learning", "Automation"],
+                "frameworks": ["LangChain", "Azure AI", "Flask", "Django"]
+            },
+        }
 ```
 ## 🔎 My characteristics
 • 🐍 I'm a **Software Developer** from SP - Brazil.<br />
