@@ -9,7 +9,7 @@ class AboutMe:
             "status": "coding...",
             "doing": "Developing AI-driven Solutions, Crafting Scalable Data Pipelines and Software Engineering...",
             "code": ["Python", "Java", "JavaScript", "Django", "Flask", "SQL", "LangChain"],
-            "askMeAbout": ["software development", "data engineer", "software engineer", "machine learning", "AI Solutions"],
+            "askMeAbout": ["software development", "data engineering", "machine learning", "AI Solutions"],
             "webdev": {
                 "frontEnd": {
                     "technologies": ["HTML", "CSS", "JavaScript"],
