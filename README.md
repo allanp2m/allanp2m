@@ -19,7 +19,7 @@ class AboutMe:
                 }
             },
             "dataEngineer": {
-                "tools": ["ETL", "Microsoft Azure", "PostgreSQL", "MongoDB", "MySQL"],
+                "tools": ["ETL", "Apache Airflow", "Apache Spark", "Microsoft Azure", "PostgreSQL", "MongoDB", "MySQL"],
                 "skills": ["Database Modeling", "API Integrations", "Machine Learning", "Automation"],
                 "frameworks": ["LangChain", "Azure AI", "Flask", "Django"]
             },
