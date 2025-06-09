@@ -48,6 +48,7 @@ class AboutMe:
   <img align="center" alt="Airflow" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg">
   <img align="center" alt="Spark" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg">
 </div>
+<br />
 <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanp2m&layout=donut&theme=highcontrast">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanp2m&layout=donut&theme=tokyonight">
 </div>
