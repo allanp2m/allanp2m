@@ -15,10 +15,10 @@ class Allan:
             "languages": ["Python", "SQL", "JavaScript"],
             "ai": ["LangChain", "LLMs", "RAG", "Embeddings", "Vector Search"],
             "backend": ["Django", "Flask", "REST APIs"],
-            "data": ["Airflow", "Spark", "ETL/ELT", "Data Lakes"],
+            "data": ["Airflow", "Spark", "ETL/ELT", "Data Lakes", "MySQL", "PostgreSQL", "Vector Database"],
             "cloud": ["AWS (S3, RDS, IAM, Bedrock)", "Azure OpenAI"]
         }
-        self.impact = "Built AI systems that process 10k+ documents with real-time contextual retrieval"
+        self.impact = "Built AI systems that process 20k+ documents with real-time contextual retrieval"
 ```
 ## 🔎 My characteristics
 • 🤖 Build AI systems in production (LLMs, RAG, Agents).<br />
